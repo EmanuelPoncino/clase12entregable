@@ -39,3 +39,11 @@ let concesionaria = {
     return autoDisponibles.filter((auto) => this.puedeComprar(auto, persona));
   },
 };
+
+// agrego
+// agrego
+// agrego
+
+// agrego
+// agrego
+// agrego
